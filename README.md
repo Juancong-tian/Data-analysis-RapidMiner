@@ -1,4 +1,4 @@
-# Data-analysis-RapidMiner
+# Data-analysis-project-with-RapidMiner
 
 Task Description:
   This virtual case study was designed to investigate which characteristics of people are more likely to default on their loan repayments. In building a statistical model, 
